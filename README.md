@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**vishesh003/vishesh003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vishesh 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science student  
+💻 DSA in C++ (360+ problems solved)  
+🌐 Full Stack Web Development (HTML, CSS, JS, React, Node.js)  
+📊 Learning Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- C++, Data Structures & Algorithms
+- HTML, CSS, JavaScript
+- React, Node.js, Express
+- MongoDB, PostgreSQL
+- Git & GitHub
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/vishesh-agarwal-148331270/
+- Email: visheshagarwal003@gmail.com
+

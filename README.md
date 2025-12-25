@@ -2,7 +2,7 @@
 # Hi, I'm Vishesh 👋
 
 🎓 Computer Science student  
-💻 DSA in C++ (360+ problems solved)  
+💻 DSA in C++ (400+ problems solved)  
 🌐 Full Stack Web Development (HTML, CSS, JS, React, Node.js)  
 📊 Learning Machine Learning  
 
